@@ -1,0 +1,44 @@
+#################################################################
+# If you used Vina-GPU in your work, please cite:               #
+#                                                               #
+#Shidi, Tang, Chen Ruiqi, Lin Mengru, Lin Qingde,               #
+#Zhu Yanxiang, Wu Jiansheng, Hu Haifeng, and Ling Ming.         #
+#Accelerating AutoDock VINA with GPUs. ChemRxiv (2021).Print.   #
+#                                                               #
+#DOI 10.26434/chemrxiv-2021-3qvn2-v3                            #
+#                                                               #
+# And also the origin AutoDock Vina paper:                      #
+# O. Trott, A. J. Olson,                                        #
+# AutoDock Vina: improving the speed and accuracy of docking    #
+# with a new scoring function, efficient optimization and       #
+# multithreading, Journal of Computational Chemistry 31 (2010)  #
+# 455-461                                                       #
+#                                                               #
+# DOI 10.1002/jcc.21334                                         #
+#                                                               #
+#################################################################
+
+Reading input ... done.
+Setting up the scoring function ... done.
+Analyzing the binding site ... done.
+done.
+mode |   affinity | dist from best mode
+     | (kcal/mol) | rmsd l.b.| rmsd u.b.
+-----+------------+----------+----------
+   1         -8.2      0.000      0.000
+   2         -8.2      0.167      1.149
+   3         -8.1      0.858      1.076
+   4         -8.0      0.897      1.579
+   5         -8.0      0.885      1.563
+   6         -8.0      0.860      1.545
+   7         -7.9      0.833      1.895
+   8         -7.9      1.002      1.511
+   9         -7.9      3.949      7.060
+  10         -7.9      1.193      1.881
+  11         -7.9      3.914      6.964
+  12         -7.8      1.378      2.011
+  13         -7.8      4.098      6.910
+  14         -7.8      1.413      1.431
+  15         -7.8      1.398      1.705
+  16         -7.7      4.174      7.056
+done.

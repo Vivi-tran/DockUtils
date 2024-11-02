@@ -1,0 +1,34 @@
+############################################################################
+# If you used QuickVina2-GPU in your work, please cite:                    #
+#                                                                          #
+# Wang Lingyue, Shidi£¬Tang, Huang Qinqin,                                 #
+# Hu Haifeng, Wu Jiansheng£¬and Zhu Yanxiang,.                             #
+# Fast, Accurate, and Reliable Molecular Docking with QuickVina 2,         #
+# Bioinformatics (2015), doi: 10.1093/bioinformatics/btv082                #
+# Accelerating Quick Vina2 with GPUs. ChemRxiv (2021).Print.               #
+# and original AutoDock Vina paper:                                        #
+# O. Trott, A. J. Olson,                                                   #
+# AutoDock Vina: improving the speed and accuracy of docking with a        #
+# new scoring function, efficient optimization and multithreading,         #
+# Journal of Computational Chemistry 31 (2010) 455-461                     #
+# doi: 10.1002/jcc.21334                                                   #
+############################################################################
+
+Reading input ... done.
+Setting up the scoring function ... done.
+Analyzing the binding site ... done.
+Using random seed: 42
+Refining results ... done.
+
+mode |   affinity | dist from best mode
+     | (kcal/mol) | rmsd l.b.| rmsd u.b.
+-----+------------+----------+----------
+   1         -9.9      0.000      0.000
+   2         -9.9      2.745      3.455
+   3         -9.7      2.241      2.827
+   4         -9.5      2.405      3.106
+   5         -9.4      2.716      8.049
+   6         -9.4      2.128      2.806
+   7         -9.4      2.137      2.698
+   8         -9.3      5.996      9.301
+Writing output ... done.

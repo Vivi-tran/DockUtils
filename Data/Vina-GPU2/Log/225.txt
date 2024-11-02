@@ -1,0 +1,43 @@
+#################################################################
+# If you used Vina-GPU in your work, please cite:               #
+#                                                               #
+#Shidi, Tang, Chen Ruiqi, Lin Mengru, Lin Qingde,               #
+#Zhu Yanxiang, Wu Jiansheng, Hu Haifeng, and Ling Ming.         #
+#Accelerating AutoDock VINA with GPUs. ChemRxiv (2021).Print.   #
+#                                                               #
+#DOI 10.26434/chemrxiv-2021-3qvn2-v3                            #
+#                                                               #
+# And also the origin AutoDock Vina paper:                      #
+# O. Trott, A. J. Olson,                                        #
+# AutoDock Vina: improving the speed and accuracy of docking    #
+# with a new scoring function, efficient optimization and       #
+# multithreading, Journal of Computational Chemistry 31 (2010)  #
+# 455-461                                                       #
+#                                                               #
+# DOI 10.1002/jcc.21334                                         #
+#                                                               #
+#################################################################
+
+Reading input ... done.
+Setting up the scoring function ... done.
+Analyzing the binding site ... done.
+done.
+mode |   affinity | dist from best mode
+     | (kcal/mol) | rmsd l.b.| rmsd u.b.
+-----+------------+----------+----------
+   1         -7.2      0.000      0.000
+   2         -7.2      3.938      6.253
+   3         -7.2      2.051      4.552
+   4         -7.1      1.584      3.503
+   5         -7.0      1.468      3.663
+   6         -7.0      1.150      1.466
+   7         -7.0      0.938      1.172
+   8         -6.9      1.413      1.890
+   9         -6.9      2.622      5.061
+  10         -6.8      3.149      6.010
+  11         -6.8      2.264      5.566
+  12         -6.8      2.832      5.499
+  13         -6.8      4.414      6.052
+  14         -6.8      2.879      4.326
+  15         -6.8      2.389      4.873
+done.
