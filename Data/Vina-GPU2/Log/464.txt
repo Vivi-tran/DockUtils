@@ -1,0 +1,45 @@
+#################################################################
+# If you used Vina-GPU in your work, please cite:               #
+#                                                               #
+#Shidi, Tang, Chen Ruiqi, Lin Mengru, Lin Qingde,               #
+#Zhu Yanxiang, Wu Jiansheng, Hu Haifeng, and Ling Ming.         #
+#Accelerating AutoDock VINA with GPUs. ChemRxiv (2021).Print.   #
+#                                                               #
+#DOI 10.26434/chemrxiv-2021-3qvn2-v3                            #
+#                                                               #
+# And also the origin AutoDock Vina paper:                      #
+# O. Trott, A. J. Olson,                                        #
+# AutoDock Vina: improving the speed and accuracy of docking    #
+# with a new scoring function, efficient optimization and       #
+# multithreading, Journal of Computational Chemistry 31 (2010)  #
+# 455-461                                                       #
+#                                                               #
+# DOI 10.1002/jcc.21334                                         #
+#                                                               #
+#################################################################
+
+Reading input ... done.
+Setting up the scoring function ... done.
+Analyzing the binding site ... done.
+done.
+mode |   affinity | dist from best mode
+     | (kcal/mol) | rmsd l.b.| rmsd u.b.
+-----+------------+----------+----------
+   1         -7.4      0.000      0.000
+   2         -7.2      4.384      6.888
+   3         -7.0      0.827      1.241
+   4         -6.9      4.445      7.236
+   5         -6.9      4.374      5.908
+   6         -6.9      1.928      4.859
+   7         -6.8      3.953      6.033
+   8         -6.7      4.034      5.530
+   9         -6.7      4.212      7.024
+  10         -6.7      1.114      4.420
+  11         -6.7      2.664      5.280
+  12         -6.6      4.135      6.999
+  13         -6.5      0.685      4.215
+  14         -6.5      1.953      5.419
+  15         -6.5      2.757      5.888
+  16         -6.4      3.289      5.982
+  17         -6.3      3.969      6.658
+done.

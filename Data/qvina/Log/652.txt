@@ -1,0 +1,56 @@
+############################################################################
+# If you used Quick Vina 2 in your work, please cite:                      #
+#                                                                          #
+# Amr Alhossary, Stephanus Daniel Handoko, Yuguang Mu, and Chee-Keong Kwoh,#
+# Fast, Accurate, and Reliable Molecular Docking with QuickVina 2,         #
+# Bioinformatics (2015), doi: 10.1093/bioinformatics/btv082                #
+#                                                                          #
+# You are also encouraged to cite Quick Vina 1:                            #
+# Stephanus Daniel Handoko, Xuchang Ouyang, Chinh Tran To Su, Chee Keong   #
+# Kwoh, Yew Soon Ong,                                                      #
+# QuickVina: Accelerating AutoDock Vina Using Gradient-Based Heuristics for#
+# Global Optimization,                                                     #
+# IEEE/ACM Transactions on Computational Biology and Bioinformatics,vol.9, #
+# no. 5, pp. 1266-1272, Sept.-Oct. 2012, doi: 10.1109/TCBB.2012.82         #
+#                                                                          #
+# and original AutoDock Vina paper:                                        #
+# O. Trott, A. J. Olson,                                                   #
+# AutoDock Vina: improving the speed and accuracy of docking with a        #
+# new scoring function, efficient optimization and multithreading,         #
+# Journal of Computational Chemistry 31 (2010) 455-461                     #
+# doi: 10.1002/jcc.21334                                                   #
+############################################################################
+
+Reading input ... done.
+Setting up the scoring function ... done.
+Analyzing the binding site ... done.
+Using random seed: 42
+Performing search ... done.
+Refining results ... 
+searching finished in 21.316 seconds
+done.
+
+mode |   affinity | dist from best mode
+     | (kcal/mol) | rmsd l.b.| rmsd u.b.
+-----+------------+----------+----------
+   1         -7.7      0.000      0.000
+   2         -7.7      0.161      2.551
+   3         -7.6      1.529      1.923
+   4         -7.6      1.535      3.131
+   5         -7.5      0.923      2.738
+   6         -7.5      3.852      6.332
+   7         -7.4      1.546      3.198
+   8         -7.4      1.581      2.069
+   9         -7.3      3.816      6.589
+  10         -7.3      1.934      3.362
+  11         -7.3      1.826      2.382
+  12         -7.3      1.552      3.097
+  13         -7.3      1.819      2.399
+  14         -6.7      3.843      5.593
+  15         -6.7      2.127      3.326
+  16         -6.7      2.024      3.840
+  17         -6.7      2.282      3.637
+  18         -6.7      3.784      5.938
+  19         -6.6      2.220      3.790
+  20         -6.6      3.882      7.074
+Writing output ... done.
